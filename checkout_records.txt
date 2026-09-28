@@ -1,0 +1,1 @@
+customer: bn  room: 5005 (presidential suite) days: 1 room cost: rs.10000 food cost: rs.100 grandtotal: rs11918.00customer: Bhavesh  room: 4004 (bambu house AC) days: 5 room cost: rs.42500 food cost: rs.100 grandtotal: rs50268.00 
